@@ -15,7 +15,7 @@
 [Usage](#-usage) •
 [Documentation](#-documentation)
 
-![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Local+Coding+AI+Demo)
+![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=LocalAI+Demo)
 
 </div>
 
@@ -477,15 +477,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/local-coding-ai&type=Date)](https://star-history.com/#yourusername/local-coding-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=833K-cpu/localai&type=Date)](https://star-history.com/#833K-cpu/localai&Date)
 
 ---
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/local-coding-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/local-coding-ai/discussions)
-- **Email**: support@example.com
+- **Issues**: [GitHub Issues](https://github.com/833K-cpu/localai/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/833K-cpu/localai/discussions)
+- **Email**: xvm0@web.de
 
 ---
 
@@ -493,6 +493,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by developers, for developers
 
-**[⬆ Back to Top](#-local-coding-ai)**
+**[⬆ Back to Top](#-localai)**
 
 </div>
