@@ -69,7 +69,10 @@ Get up and running in 3 commands:
 git clone https://github.com/833K-cpu/localai.git
 cd localai
 
-# 2. Run the installation script
+# Make scripts executable
+chmod +x scripts/install.sh start.sh src/server.py
+
+# Run the installer
 ./scripts/install.sh
 
 # 3. Start the server
