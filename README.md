@@ -66,7 +66,7 @@ Get up and running in 3 commands:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/local-coding-ai.git
+git clone https://github.com/833K-cpu/localai.git
 cd local-coding-ai
 
 # 2. Run the installation script
