@@ -419,8 +419,8 @@ Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of c
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/local-coding-ai.git
-cd local-coding-ai
+git clone https://github.com/833K-cpu/localai.git
+cd localai
 
 # Install dev dependencies
 pip3 install -r requirements-dev.txt
