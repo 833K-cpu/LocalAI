@@ -15,7 +15,7 @@
 [Usage](#-usage) •
 [Documentation](#-documentation)
 
-![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=LocalAI+Demo)
+![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Local+Coding+AI)
 
 </div>
 
@@ -69,10 +69,7 @@ Get up and running in 3 commands:
 git clone https://github.com/833K-cpu/localai.git
 cd localai
 
-# Make scripts executable
-chmod +x scripts/install.sh start.sh src/server.py
-
-# Run the installer
+# 2. Run the installation script
 ./scripts/install.sh
 
 # 3. Start the server
@@ -271,7 +268,7 @@ CORS_ENABLED = False
 ## 🏗️ Project Structure
 
 ```
-local-coding-ai/
+localai/
 ├── src/
 │   ├── server.py              # Main Flask application
 │   ├── config.py              # Configuration management
@@ -488,7 +485,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/833K-cpu/localai/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/833K-cpu/localai/discussions)
-- **Email**: xvm0@web.de
+- **Email**: support@example.com
 
 ---
 
