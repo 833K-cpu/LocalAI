@@ -386,7 +386,7 @@ print_summary() {
     
     print_info "Documentation:"
     echo "  README:    ./README.md"
-    echo "  GitHub:    https://github.com/yourusername/local-coding-ai"
+    echo "  GitHub:    https://github.com/833K-cpu/localai"
     echo ""
     
     echo -e "${PURPLE}Happy coding with AI! 🚀${NC}"
