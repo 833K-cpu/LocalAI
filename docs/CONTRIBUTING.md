@@ -1,6 +1,6 @@
-# Contributing to Local Coding AI
+# Contributing to LocalAI
 
-First off, thank you for considering contributing to Local Coding AI! 🎉
+First off, thank you for considering contributing to LocalAI! 🎉
 
 ## Table of Contents
 
@@ -87,8 +87,8 @@ We love pull requests! Here's how to contribute code:
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/YOUR_USERNAME/local-coding-ai.git
-cd local-coding-ai
+git clone https://github.com/833K-cpu/localai.git
+cd localai
 
 # 2. Create virtual environment (optional but recommended)
 python3 -m venv venv
@@ -113,7 +113,7 @@ python3 src/server.py
 ### Project Structure
 
 ```
-local-coding-ai/
+localai/
 ├── src/
 │   ├── server.py          # Main Flask application
 │   └── templates/         # HTML templates
